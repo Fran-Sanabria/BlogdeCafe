@@ -1,7 +1,5 @@
 # CAFE Blog
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b2f31dc7-2894-4622-8f41-17d135ac4e06/deploy-status?branch=success)](https://app.netlify.com/sites/caafeblogg/deploys)
-
 ### [Visita el sitio web](https://caafeblogg.netlify.app/)
 
 ## Descripción
