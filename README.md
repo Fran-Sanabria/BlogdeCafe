@@ -1,21 +1,22 @@
-# CAAFE Blog
+# CAFE Blog
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/caafeblogg/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b2f31dc7-2894-4622-8f41-17d135ac4e06/deploy-status)](https://app.netlify.com/sites/caafeblogg/deploys)
 
 ### [Visita el sitio web](https://caafeblogg.netlify.app/)
 
 ## Descripción
 
-**CAAFE Blog** es un blog creado para compartir artículos y reflexiones sobre temas de tecnología, desarrollo web, y tendencias actuales del mundo digital. El enfoque principal es proporcionar contenido valioso y accesible para programadores, desarrolladores y personas interesadas en el mundo de la tecnología.
+**Blog de Café** es un sitio web dedicado a compartir entradas de blog relacionadas con el café, incluyendo artículos sobre sus diferentes tipos, métodos de preparación, y cultura cafetera. Además, el blog presenta cursos y recursos educativos para aquellos que deseen profundizar su conocimiento sobre el café.
 
-El blog está diseñado con una interfaz simple y amigable para una mejor experiencia de lectura. Además, está optimizado para funcionar eficientemente tanto en dispositivos móviles como en escritorio.
+El sitio cuenta con una interfaz simple y fácil de navegar, optimizada para ofrecer una buena experiencia tanto en dispositivos móviles como en computadoras de escritorio.
 
 ## Características
 
-- Artículos sobre desarrollo web, herramientas tecnológicas y mejores prácticas.
-- Diseño limpio y minimalista para una fácil navegación.
-- Responsive: el sitio web se adapta a diferentes tamaños de pantalla.
-- Despliegue continuo mediante Netlify.
+- Publicaciones sobre el café, sus variedades y métodos de preparación.
+- Información sobre cursos y recursos relacionados con el café.
+- Diseño limpio y minimalista que prioriza la lectura cómoda.
+- Optimizado para dispositivos móviles (responsive).
+- Despliegue continuo a través de Netlify.
 
 ## Tecnologías utilizadas
 
@@ -28,13 +29,13 @@ El blog está diseñado con una interfaz simple y amigable para una mejor experi
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/your-username/caafeblog.git
+   git clone https://github.com/Fran-Sanabria/BlogdeCafe.git
    ```
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd caafeblog
+   cd BlogdeCafe
    ```
 
 3. Abre el archivo `index.html` en tu navegador para ver el sitio en modo local.
